@@ -1,4 +1,4 @@
-Hi, I'm [XiaoDong Zuo]👋, a continuous entrepreneur who loves to create beautiful and scalable services for hundreds of millions of users through technology.
+Hi, I'm XiaoDong Zuo, a continuous entrepreneur who loves to create beautiful and scalable services for hundreds of millions of users through technology.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
 
